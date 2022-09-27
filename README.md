@@ -2,4 +2,6 @@ This repository cotains the questions that you will need to answer to move to th
 
 The questions test various parts of your skillset and core coding knowledge. 
 
-We're not just looking for the correct solution but how you approach problem solving.   
+We're not just looking for the correct solution but how you approach problem solving. 
+
+I have completed the 3 questions.
